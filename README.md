@@ -14,16 +14,18 @@
 ## 📡 Tecnologias que utilizo
 <div align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,tailwind,figma,vscode&perline=14" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,prisma,tailwind,figma&perline=14" />
       </a>
 </div>
 <br>
 
 ## 📲 Entre em contato
 <p align="center">
-      <a href="https://www.linkedin.com/in/love-quinn-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rhaissabg" height="30"/></a>
+      <a href="https://love-quinn.github.io/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/PORTFOLIO-brightgreen?style=for-the-badge&logo=safari&labelColor=%23000&color=%23000">
+</a>
+      <a href="https://www.linkedin.com/in/love-quinn-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="love-quinn" height="30"/></a>
       <a href="mailto:lucaslucal75@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+5511972217590" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rhaissabg" height="30"/></a>
+      <a href="https://wa.me/+5511972217590" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="love-quinn" height="30"/></a>
 </p>
 <br>
 
