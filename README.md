@@ -24,8 +24,6 @@
 
 ## 📲 Entre em contato
 
-## 📲 Entre em contato
-
 <p align="center">
     <a href="https://love-quinn.github.io/" target="blank">
         <img src="https://img.shields.io/badge/PORTFOLIO-brightgreen?style=for-the-badge&logo=safari&labelColor=%23000&color=%23000" alt="Static Badge" height="30" />
