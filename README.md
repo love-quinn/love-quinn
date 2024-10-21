@@ -32,9 +32,9 @@
       <a href="mailto:lucaslucal75@gmail.com" target="blank">
         <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30"/>
     </a>
-      <a href="https://wa.me/+5511972217590" target="blank">
+      <!-- <a href="https://wa.me/+5511972217590" target="blank">
         <img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="love-quinn" height="30"/>
-      </a>
+      </a> -->
 </p>
 <br>
 
