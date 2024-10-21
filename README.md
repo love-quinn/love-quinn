@@ -1,9 +1,8 @@
-# Oi! Eu sou a Rhaíssa Lima 👋
-
-<p>📚 Estudante de <b>Ciência da Computação</b> pela Universidade Cruzeiro do Sul</p>
-<p>💡 Desenvolvedora FullStack Jr</p>
+# Oi! Eu sou o Lucas Santana 👋
+<p>💡 Desenvolvedor FullStack(Desde 2020)</p>
+<p>💻 Stack Principal back-end com NextJs/Node/Python e front-end com React e TypeScript</p>
+<p>📚 Estudante de <b>Engenharia da Computação</b> pela Universidade UniAmérica</p>
 <p>👾 Entusiasta de tecnologia</p>
-<p>💻 Estudando desenvolvimento back-end com Java e Spring e front-end com React e TypeScript</p>
 <p>💭 Sempre em busca de mais conhecimento</p>
 <br>
 
@@ -33,7 +32,7 @@
 
 
 <!--
-**rhaissabg/rhaissabg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rhaissabg/love-quinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
