@@ -7,34 +7,27 @@
 <br>
 
 ## 📈 GitHub Stats
-<div align="center">
-      
+<div align="center">   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=love-quinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=love-quinn&layout=compact&langs_count=8&theme=dark"/>
-</div>
 <br>
 
-<!-- ## 📡 Tecnologias que utilizo
+## 📡 Tecnologias que utilizo
 <div align="center">
       <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,tailwind,figma,vscode&perline=14" />
       </a>
 </div>
-<br> -->
+<br>
 
 ## 📲 Entre em contato
 <p align="center">
       <a href="https://www.linkedin.com/in/love-quinn-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rhaissabg" height="30"/></a>
       <a href="mailto:lucaslucal75@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+5521966730220" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rhaissabg" height="30"/></a>
+      <a href="https://wa.me/+5511972217590" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rhaissabg" height="30"/></a>
 </p>
 <br>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julia0126/Julia0126/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julia0126/Julia0126/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julia0126/Julia0126/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 <!--
