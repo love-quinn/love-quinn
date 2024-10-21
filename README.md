@@ -1,7 +1,39 @@
-## Hi there 👋
+# Oi! Eu sou a Rhaíssa Lima 👋
+
+<p>📚 Estudante de <b>Ciência da Computação</b> pela Universidade Cruzeiro do Sul</p>
+<p>💡 Desenvolvedora FullStack Jr</p>
+<p>👾 Entusiasta de tecnologia</p>
+<p>💻 Estudando desenvolvimento back-end com Java e Spring e front-end com React e TypeScript</p>
+<p>💭 Sempre em busca de mais conhecimento</p>
+<br>
+
+## 📈 GitHub Stats
+<div align="center">
+      
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=love-quinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=love-quinn&layout=compact&langs_count=8&theme=dark"/>
+</div>
+<br>
+
+## 📡 Tecnologias que utilizo
+<div align="center">
+      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,discord,figma,github,html,css,js,ts,python,react,next,vite,vscode,docker,postman,tailwind&perline=14" />
+      </a>
+</div>
+<br>
+
+## 📲 Entre em contato
+<p align="center">
+      <a href="https://www.linkedin.com/in/love-quinn-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rhaissabg" height="30"/></a>
+      <a href="mailto:lucaslucal75@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+5521966730220" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rhaissabg" height="30"/></a>
+</p>
+<br>
+
 
 <!--
-**love-quinn/love-quinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rhaissabg/rhaissabg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
