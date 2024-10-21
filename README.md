@@ -1,10 +1,10 @@
-# Oi! Eu sou o Lucas Santana 👋
+# Hi! I am Lucas Santana 👋
 
-<p>💡 Full Stack Developer(Desde 2020)</p>
-<p>💻 Stack Principal Front-end com React e TypeScript e Back-end com NextJs/Node/Python</p>
-<p>📚 Estudante de <b>Engenharia da Computação</b> pela Universidade UniAmérica</p>
-<p>👾 Entusiasta de tecnologia</p>
-<p>💭 Sempre em busca de mais conhecimento</p>
+<p>💡 Full Stack Developer(Since 2020)</p>
+<p>💻 Main Stack Front-end with React and TypeScript and Back-end with NextJs/Node/Python</p>
+<p>📚 Student of <b>Computer Engineering</b> at UniAmérica University</p>
+<p>👾 Technology enthusiast</p>
+<p>💭 Always in seek of knowledge</p>
 <br>
 
 ## 📈 GitHub Stats
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=love-quinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <br>
 
-## 📡 Tecnologias que utilizo
+## 📡 Technologies I use
 
 <div align="center">
       <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
 </div>
 <br>
 
-## 📲 Entre em contato
+## 📲 Get in touch
 
 <p align="center">
     <a href="https://love-quinn.github.io/" target="blank">
