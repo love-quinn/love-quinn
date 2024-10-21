@@ -14,13 +14,13 @@
 </div>
 <br>
 
-## 📡 Tecnologias que utilizo
+<!-- ## 📡 Tecnologias que utilizo
 <div align="center">
       <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,tailwind,figma,postman,vscode,docker,github&perline=14" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,next,tailwind,figma,vscode&perline=14" />
       </a>
 </div>
-<br>
+<br> -->
 
 ## 📲 Entre em contato
 <p align="center">
@@ -29,6 +29,12 @@
       <a href="https://wa.me/+5521966730220" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="rhaissabg" height="30"/></a>
 </p>
 <br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julia0126/Julia0126/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julia0126/Julia0126/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Julia0126/Julia0126/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <!--
