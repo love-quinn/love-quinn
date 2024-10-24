@@ -28,6 +28,9 @@
     <a href="https://love-quinn.github.io/" target="blank">
         <img src="https://img.shields.io/badge/PORTFOLIO-brightgreen?style=for-the-badge&logo=safari&labelColor=%23000&color=%23000" alt="Static Badge" height="30" />
     </a>
+    <a href="https://www.youtube.com/@love-quinn-dev" target="blank">
+        <img src="https://img.shields.io/badge/youtube-EA4335.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="love-quinn" height="30" />
+    </a>
     <a href="https://www.linkedin.com/in/love-quinn-dev/" target="blank">
         <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="love-quinn" height="30" />
     </a>
