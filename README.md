@@ -4,7 +4,6 @@
 <p>💻 Main Stack Front-end with React and TypeScript and Back-end with NextJs/Node/Python</p>
 <p>📚 Student of <b>Computer Engineering</b> at UniAmérica University</p>
 <p>👾 Technology enthusiast</p>
-<p>💭 Always in seek of knowledge</p>
 <br>
 
 <!-- ## 📈 GitHub Stats
