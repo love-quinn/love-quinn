@@ -30,15 +30,10 @@
     <a href="https://www.youtube.com/@love-quinn-dev" target="blank">
         <img src="https://img.shields.io/badge/youtube-EA4335.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="love-quinn" height="30" />
     </a>
-    <a href="https://www.linkedin.com/in/love-quinn-dev/" target="blank">
-        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="love-quinn" height="30" />
-    </a>
     <a href="mailto:lucaslucal75@gmail.com" target="blank">
         <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30" />
     </a>
-    <a href="https://wa.me/+5511972217590" target="blank">
-        <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="love-quinn" height="30" />
-    </a>
+    
 </p>
 
 <br>
