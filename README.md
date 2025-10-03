@@ -1,7 +1,7 @@
 # Hi! I am Lucas Santana 👋
 
 <p>💡 Full Stack Developer(Since 2020)</p>
-<p>💻 Main Stack Front-end with React and TypeScript and Back-end with NextJs/Node/Python</p>
+<p>💻 Main Stack Front-end with React and TypeScript and Back-end with NextJs/Node/C#</p>
 <p>📚 Student of <b>Computer Engineering</b> at UniAmérica University</p>
 <p>👾 Technology enthusiast</p>
 <br>
